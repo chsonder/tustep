@@ -10,3 +10,6 @@ Dateien
 * test.cfg: Die Konfigurationsdatei
 * test001-test004.td: Die vier Dateien mit den Testdaten
 * test001-test004.tl: Die vier Dateien mit den Testlösungen
+* präsentation.opd: Die Präsentation als Libre-Office-Datei
+* präsentation.pdf: Die Präsentation als PDF-Datei
+* assets/*: Die in der Präsentation eingeundenen Screenshots als PDF-Dateien
